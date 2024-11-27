@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 *   🌍  I'm based in Israel
 *   ✉️  You can contact me at [ishayhouri@gmail.com](mailto:ishayhouri@gmail.com)
-*   🧠  I'm currently learning Docker
+*   🔭  I'm currently learning Fullstack Development
 *   Skills
 <p align="left">  
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
